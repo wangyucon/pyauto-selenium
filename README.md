@@ -1,0 +1,2 @@
+# seleniumAutoTest
+配置pytest运行测试用例生成html报告、用例失败截图并附着到报告中、失败重跑等

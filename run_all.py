@@ -1,6 +1,6 @@
 import pytest
 import os
-from baidu_selenium.conftest import REPORT_DIR
+from seleniumAutoTest.conftest import REPORT_DIR
 from config import RunConfig
 import time
 
